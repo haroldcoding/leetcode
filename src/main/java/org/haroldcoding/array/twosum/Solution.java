@@ -5,12 +5,12 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * Created by UIA on 2017/6/30.
+ * Created on 2017/6/30.
  */
 public class Solution {
     /**
      * 第一种方法 循环遍历每个数组元素 x，看是否存在与 target - x 相等的元素
-     * 这是我第一次的做法
+     * 这是我第一次的做法,当然抛出异常是写完之后参考了 leetcode 的解答又加上的
      * @param nums
      * @param target
      * @return

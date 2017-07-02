@@ -1,7 +1,7 @@
 package org.haroldcoding.undefined;
 
 /**
- * Created by UIA on 2017/6/30.
+ * Created  on 2017/6/30.
  * 判断一个整数是否是回文数
  * 注意负数不是回文数
  */
