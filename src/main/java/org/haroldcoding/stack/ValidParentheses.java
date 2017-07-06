@@ -19,9 +19,10 @@ public class ValidParentheses {
         if (s == null || s.isEmpty() || s.length() % 2 == 1) {
             return false;
         }
-        char[] schar = s.toCharArray();
+
         Stack<Character> stack = new Stack<>();
-        for (char c : schar) {
+        for (int i=0,length=s.length();i<length;i++) {
+            char c = s.charAt(i);
             if (c == '(' || c == '{' || c == '[') {
                 stack.push(c);
             } else {
@@ -31,7 +32,7 @@ public class ValidParentheses {
                     return false;
                 } else if (c == '}' && stack.pop() != '{') {
                     return false;
-                } else if (c == ']' && stack.pop() != ']') {
+                } else if (c == ']' && stack.pop() != '[') {
                     return false;
                 }
             }
