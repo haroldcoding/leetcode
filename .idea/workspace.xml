@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e602d271-7e65-4270-b207-65b6943391d5" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/org/haroldcoding/stack/ValidParentheses.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -57,7 +56,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ValidParentheses.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="60">
+                <caret line="3" column="6" lean-forward="true" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ValidParentheses.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/org/haroldcoding/stack/ValidParentheses.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="365">
@@ -138,7 +150,6 @@
         <option value="$PROJECT_DIR$/src/test/java/org/haroldcoding/undefined/PalindromeNumberTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/org/haroldcoding/undefined/RomanToIntegerTest.java" />
         <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/src/main/java/org/haroldcoding/array/twosum/Solution.java" />
         <option value="$PROJECT_DIR$/src/main/java/org/haroldcoding/undefined/PalindromeNumber.java" />
         <option value="$PROJECT_DIR$/src/main/java/org/haroldcoding/undefined/ReverseInteger.java" />
@@ -149,6 +160,7 @@
         <option value="$PROJECT_DIR$/src/test/java/org/haroldcoding/undefined/ValidParenthesesTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/org/haroldcoding/undefined/ValidParentheses.java" />
         <option value="$PROJECT_DIR$/src/main/java/org/haroldcoding/stack/ValidParentheses.java" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -939,7 +951,7 @@
       <updated>1498805574269</updated>
       <workItem from="1498805588239" duration="15444000" />
       <workItem from="1498878236874" duration="13813000" />
-      <workItem from="1499349229569" duration="3818000" />
+      <workItem from="1499349229569" duration="4201000" />
     </task>
     <servers />
   </component>
@@ -976,7 +988,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33075000" />
+    <option name="totallyTimeSpent" value="33458000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1358" y="-8" width="1456" height="876" extended-state="6" />
@@ -1401,17 +1413,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="20">
-            <caret line="1" column="12" lean-forward="false" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/org/haroldcoding/array/twosum/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -1495,6 +1496,17 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="60">
+            <caret line="3" column="6" lean-forward="true" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
